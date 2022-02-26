@@ -1,0 +1,211 @@
+2022-02-26 10:59:04,744 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-26 11:01:47,552 [Worker-20: Creating project "mavenExercise"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 11:01:47,770 [Worker-20: Creating project "mavenExercise"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenExercise/src/main/java
+2022-02-26 11:01:47,771 [Worker-20: Creating project "mavenExercise"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mavenExercise/src/main/resources
+2022-02-26 11:01:47,771 [Worker-20: Creating project "mavenExercise"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenExercise/src/test/java
+2022-02-26 11:01:47,771 [Worker-20: Creating project "mavenExercise"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mavenExercise/src/test/resources
+2022-02-26 11:01:48,376 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:01:48,378 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:01:48,379 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:01:48,387 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:11:16,303 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 11:11:18,181 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2022-02-26 11:11:18,815 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2022-02-26 11:11:19,199 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2022-02-26 11:11:20,650 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2022-02-26 11:11:20,940 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:11:20,942 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:11:20,944 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:11:20,957 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:11:23,194 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2022-02-26 11:11:24,153 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2022-02-26 11:11:24,235 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.2
+2022-02-26 11:11:25,447 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2022-02-26 11:11:26,023 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2022-02-26 11:11:26,259 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2022-02-26 11:11:26,441 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:11:26,442 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:11:26,443 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:11:26,454 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:13:12,842 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 11:13:13,950 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2022-02-26 11:13:14,635 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2022-02-26 11:13:14,915 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2022-02-26 11:13:15,543 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2022-02-26 11:13:19,580 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2022-02-26 11:13:19,898 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.spring.io/snapshot/org/springframework/spring-core/4.2.5.BUILD-SNAPSHOT/spring-core-4.2.5.BUILD-20160224.174707-27.jar
+2022-02-26 11:13:29,576 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/spring-core/4.2.5.BUILD-SNAPSHOT/spring-core-4.2.5.BUILD-20160224.174707-27.jar
+2022-02-26 11:13:29,973 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2022-02-26 11:13:30,397 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2022-02-26 11:13:30,739 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:13:30,740 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:13:30,741 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:13:30,748 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:13:33,915 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.spring.io/snapshot/org/springframework/spring-core/4.2.5.BUILD-SNAPSHOT/spring-core-4.2.5.BUILD-20160224.174707-27-sources.jar
+2022-02-26 11:13:37,769 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/org/springframework/spring-core/4.2.5.BUILD-SNAPSHOT/spring-core-4.2.5.BUILD-20160224.174707-27-sources.jar
+2022-02-26 11:13:37,891 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.2.5.BUILD-SNAPSHOT
+2022-02-26 11:13:39,950 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/snapshot/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-02-26 11:13:41,132 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-02-26 11:13:41,771 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-02-26 11:13:41,860 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2022-02-26 11:13:42,034 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:13:42,035 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:13:42,037 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:13:42,048 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:15:49,334 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:15:49,336 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:15:49,337 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:15:49,351 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:15:50,409 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:15:50,410 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:15:50,412 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:15:50,427 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:05,359 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:05,360 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:05,362 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:05,372 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:38,051 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:38,052 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:38,053 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:38,066 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:44,309 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:44,310 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:18:44,312 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:18:44,324 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:19:16,011 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 11:19:20,097 [Worker-28: Launching mavenExercise] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 11:19:20,097 [Worker-28: Launching mavenExercise] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-26 11:19:34,769 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 11:19:39,340 [Worker-28: Launching mavenExercise (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 11:19:39,340 [Worker-28: Launching mavenExercise (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2022-02-26 11:20:41,301 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 11:20:41,470 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:20:41,471 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:20:41,472 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:20:41,479 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:26:04,190 [Worker-33: Launching Myjava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:26:04,190 [Worker-33: Launching Myjava] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 11:26:04,191 [Worker-33: Launching Myjava] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 11:26:04,200 [Worker-33: Launching Myjava] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:00:45,747 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 12:00:45,918 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:00:45,919 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:00:45,920 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:00:45,929 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:00:56,630 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:01:00,160 [Worker-38: Launching mavenExercise (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:01:00,160 [Worker-38: Launching mavenExercise (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-26 12:01:14,083 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:01:19,990 [Worker-40: Launching mavenExercise (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:01:19,990 [Worker-40: Launching mavenExercise (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2022-02-26 12:01:32,373 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:01:36,145 [Worker-39: Launching mavenExercise (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:01:36,145 [Worker-39: Launching mavenExercise (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-02-26 12:08:47,616 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 12:08:47,792 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:08:47,793 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:08:47,795 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:08:47,808 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:09:00,110 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:09:02,765 [Worker-43: Launching mavenExercise (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:09:02,765 [Worker-43: Launching mavenExercise (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-26 12:09:11,361 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:09:14,557 [Worker-42: Launching mavenExercise (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:09:14,557 [Worker-42: Launching mavenExercise (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2022-02-26 12:09:25,926 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:09:29,209 [Worker-45: Launching mavenExercise (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise
+2022-02-26 12:09:29,209 [Worker-45: Launching mavenExercise (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-02-26 12:12:55,891 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:mavenExercise:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/mavenExercise/pom.xml.
+2022-02-26 12:12:56,035 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:12:56,036 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:12:56,037 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:12:56,045 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:16:15,483 [Worker-46: Creating project "maven-multi-module"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:maven-multi-module:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module/pom.xml.
+2022-02-26 12:16:15,619 [Worker-46: Creating project "maven-multi-module"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-multi-module/src/main/java
+2022-02-26 12:16:15,619 [Worker-46: Creating project "maven-multi-module"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-multi-module/src/main/resources
+2022-02-26 12:16:15,619 [Worker-46: Creating project "maven-multi-module"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-multi-module/src/test/java
+2022-02-26 12:16:15,619 [Worker-46: Creating project "maven-multi-module"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-multi-module/src/test/resources
+2022-02-26 12:16:15,849 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:16:15,849 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:16:15,850 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:16:15,858 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:18:47,121 [Worker-48: Creating project "maven-multi-module-project"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ttn:maven-multi-module-project:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/pom.xml.
+2022-02-26 12:20:41,641 [Worker-51: Creating project "data"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:data:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/data/pom.xml.
+2022-02-26 12:20:41,841 [Worker-51: Creating project "data"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /data/src/main/java
+2022-02-26 12:20:41,842 [Worker-51: Creating project "data"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /data/src/main/resources
+2022-02-26 12:20:41,842 [Worker-51: Creating project "data"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /data/src/test/java
+2022-02-26 12:20:41,842 [Worker-51: Creating project "data"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /data/src/test/resources
+2022-02-26 12:20:42,066 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:20:42,067 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:20:42,084 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:20:42,101 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:20:42,141 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:data:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/data/pom.xml.
+2022-02-26 12:20:42,143 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ttn:maven-multi-module-project:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/pom.xml.
+2022-02-26 12:20:43,371 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:20:43,372 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:20:43,372 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:20:43,383 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:20,164 [Worker-46: Creating project "business"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:business:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/business/pom.xml.
+2022-02-26 12:21:20,325 [Worker-46: Creating project "business"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /business/src/main/java
+2022-02-26 12:21:20,327 [Worker-46: Creating project "business"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /business/src/main/resources
+2022-02-26 12:21:20,329 [Worker-46: Creating project "business"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /business/src/test/java
+2022-02-26 12:21:20,331 [Worker-46: Creating project "business"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /business/src/test/resources
+2022-02-26 12:21:20,569 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:20,570 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:20,570 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:20,581 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:20,610 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:data:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/data/pom.xml.
+2022-02-26 12:21:20,632 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:business:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/business/pom.xml.
+2022-02-26 12:21:20,633 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.ttn:maven-multi-module-project:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/pom.xml.
+2022-02-26 12:21:22,042 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:22,043 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:22,044 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:22,064 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:22,068 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:22,079 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:21:22,080 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:21:22,087 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:22:23,178 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:22:23,179 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:22:23,180 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:22:23,191 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:22:51,653 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:22:51,654 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:22:51,655 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:22:51,666 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:23:14,951 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:23:14,965 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:23:14,966 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:23:14,978 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:23:39,552 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:23:39,553 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:23:39,555 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:23:39,570 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:24:06,187 [Worker-52: Launching Executing clean in _home_kamlesh_eclipse-workspace_mavenWork_maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project
+2022-02-26 12:24:06,187 [Worker-52: Launching Executing clean in _home_kamlesh_eclipse-workspace_mavenWork_maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-26 12:24:21,748 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:24:31,221 [Worker-52: Launching maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project
+2022-02-26 12:24:31,221 [Worker-52: Launching maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-02-26 12:25:24,358 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:data:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/data/pom.xml.
+2022-02-26 12:25:24,435 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:25:24,435 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:25:24,436 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:25:24,444 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:25:40,534 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ttn:business:0.0.1-SNAPSHOT @ /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project/business/pom.xml.
+2022-02-26 12:25:40,613 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:25:40,614 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:25:40,615 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:25:40,624 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:26:06,327 [Worker-51: Launching Executing clean in _home_kamlesh_eclipse-workspace_mavenWork_maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project
+2022-02-26 12:26:06,327 [Worker-51: Launching Executing clean in _home_kamlesh_eclipse-workspace_mavenWork_maven-multi-module-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-26 12:26:07,199 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:26:07,200 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:26:07,201 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:26:07,216 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:26:07,221 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:26:07,229 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:26:07,230 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-26 12:26:07,237 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-26 12:26:16,341 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-26 12:26:20,273 [Worker-48: Launching maven-multi-module-project (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/kamlesh/eclipse-workspace/mavenWork/maven-multi-module-project
+2022-02-26 12:26:20,273 [Worker-48: Launching maven-multi-module-project (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
